@@ -1,4 +1,12 @@
-# Recreating "Minimal keyboard" by Dibyajyoti Mishra
+<div align="center">
+  
+  <h2 align="center">Keyboard</h2>
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Alca/pen/vYeyOwd](https://codepen.io/Alca/pen/vYeyOwd).
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![Simona Portfolio Desktop Demo](./readme-images/keyboard.png "Desktop Demo")
 
